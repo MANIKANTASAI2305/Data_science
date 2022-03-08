@@ -1,2 +1,2 @@
-# Data_science
+# Data_Science
 Machine Learning and Deep Learning
